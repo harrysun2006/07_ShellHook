@@ -1,0 +1,6 @@
+LIBRARY   "ShellHook"
+EXPORTS
+  InstallShellHook		@1
+  UnInstallShellHook	@2
+  InstallShellHookEx	@3
+  UnInstallShellHookEx	@4

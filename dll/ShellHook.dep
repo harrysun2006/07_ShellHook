@@ -1,0 +1,6 @@
+# Microsoft Developer Studio Generated Dependency File, included by ShellHook.mak
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"d:\apps\microsoft visual studio\vc98\include\basetsd.h"\
+	
