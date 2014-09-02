@@ -1,19 +1,38 @@
+<<<<<<< HEAD
 /Debug/
+=======
+>>>>>>> 1f09fad381ae0a652598f712b0f4996da523ea71
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1f09fad381ae0a652598f712b0f4996da523ea71
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1f09fad381ae0a652598f712b0f4996da523ea71
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
+<<<<<<< HEAD
 # Executables
 *.exe
 *.out
 *.app
+=======
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 1f09fad381ae0a652598f712b0f4996da523ea71
